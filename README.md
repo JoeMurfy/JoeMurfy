@@ -1,6 +1,6 @@
 ## Heyo!  
 
-I’m Joe. I’ve spent ***close to*** a decade in the escape room industry, running games, building puzzles, managing operations, and developing the tech that powers the games (and fixing it when it doesn’t). 
+I’m Joe. I’ve spent over a decade in the escape room industry, running games, building puzzles, managing operations, and developing the tech that powers the games (and fixing it when it doesn’t). 
 
 I spend far too much time in my homelab experimenting with Proxmox, Docker, IoT, and a growing collection of over-engineered projects. I love breaking things (then fixing them again) and automating stuff that probably never needed automating.
 
