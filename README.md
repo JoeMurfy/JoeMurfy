@@ -38,7 +38,7 @@ I mainly code in Python, C++ and C, build with Arduino and Raspberry Pi, and hav
 
 ## Currently Working On  
 
-- An browser extension to improve the useability of Resova (Activity Booking Software)
+- A browser extension to improve the useability of Resova (Activity Booking Software)
 
 <!---
 JoeMurfy/JoeMurfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
